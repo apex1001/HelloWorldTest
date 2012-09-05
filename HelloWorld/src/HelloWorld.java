@@ -7,7 +7,7 @@ public class HelloWorld {
 	public static void main(String[] args)
 	{
 		System.out.println("Hello World");
-		System.out.println("where are we going today?");
+		System.out.println("Today we go left!");
 	}
 
 }
