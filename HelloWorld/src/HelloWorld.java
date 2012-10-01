@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Chakir ken nie coden");
 		System.out.println("Daarom codeert vincent het hele project");
 		System.out.println("En friek kijkt natuurlijk mee");
+		System.out.println("Maar jan heeft geen idee");
 	}
 
 }
