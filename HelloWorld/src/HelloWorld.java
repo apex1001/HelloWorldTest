@@ -8,6 +8,7 @@ public class HelloWorld {
 	{
 		System.out.println("Hello World");
 		System.out.println("Chakir ken nie coden");
+		System.out.println("Daarom codeert vincent het hele project");
 	}
 
 }
